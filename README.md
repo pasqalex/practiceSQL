@@ -28,6 +28,8 @@
 - `DATE_TRUNC`, `AGE`, `EXTRACT`
 - `COALESCE`
 - `FETCH FIRST` / `OFFSET`
+- `UNNEST` для работы с массивами
+- `TO_TIMESTAMP`, `TO_CHAR` для преобразования типов
 
 ## Примечания
 
