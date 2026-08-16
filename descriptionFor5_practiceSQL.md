@@ -9,7 +9,7 @@
 1. **all_canceled_orders**  
    Находим все `order_id`, которые были отменены (`action = 'cancel_order'`).
 
-2. **all_not_all_canceled_orders_orders**  
+2. **all_not_canceled_orders**  
    Отбираем только неотменённые заказы.  
    Для каждой строки оставляем `user_id` и дату заказа.
 
