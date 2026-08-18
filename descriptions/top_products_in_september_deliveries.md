@@ -4,6 +4,8 @@
 - не были отменены;
 - были доставлены в сентябре 2022 года.
 
+**SQL-файл:** [`top_products_in_september_deliveries.sql`](../sql/top_products_in_september_deliveries.sql)
+
 ## Логика решения
 
 1. **all_not_canceled_orders**  

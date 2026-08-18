@@ -2,6 +2,10 @@
 
 **Задача:** найти все **неотменённые** заказы, в состав которых входит хотя бы один товар из топ-5 самых дорогих товаров.
 
+**SQL-файл:** [`orders_with_top_expensive_products.sql`](../sql/orders_with_top_expensive_products.sql)  
+
+**Оптимизированный SQL-файл:** [`orders_with_top_expensive_products_optimized.sql`](../sql/orders_with_top_expensive_products_optimized.sql)
+
 ---
 
 ## Основной запрос

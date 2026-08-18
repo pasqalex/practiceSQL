@@ -2,6 +2,8 @@
 
 **Задача:** найти курьеров, доставивших 30 и более заказов за сентябрь 2022 года, и вывести их данные.
 
+**SQL-файл:** [`top_couriers_by_september_deliveries.sql`](../sql/top_couriers_by_september_deliveries.sql)
+
 ## Логика решения
 
 1. **best**  

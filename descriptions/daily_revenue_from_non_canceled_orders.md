@@ -2,6 +2,8 @@
 
 **Задача:** посчитать ежедневную выручку по неотменённым заказам.
 
+**SQL-файл:** [`daily_revenue_from_non_canceled_orders.sql`](../sql/daily_revenue_from_non_canceled_orders.sql)
+
 ## Логика решения
 
 1. **all_not_canceled_orders**  

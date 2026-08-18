@@ -2,6 +2,8 @@
 
 **Задача:** получить список из последних 100 доставленных заказов и состав товаров в них.
 
+**SQL-файл:** [`last_100_delivered_orders_with_products.sql`](../sql/last_100_delivered_orders_with_products.sql)
+
 ## Логика решения
 
 1. **deliver**  

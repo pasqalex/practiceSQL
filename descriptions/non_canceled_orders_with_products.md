@@ -2,6 +2,8 @@
 
 **Задача:** получить список неотменённых заказов с привязкой к пользователям и составом товаров.
 
+**SQL-файл:** [`non_canceled_orders_with_products.sql`](../sql/non_canceled_orders_with_products.sql)
+
 ## Логика решения
 
 1. **Подзапрос `all_not_canceled_orders`**  

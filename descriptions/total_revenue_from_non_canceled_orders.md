@@ -2,6 +2,8 @@
 
 **Задача:** посчитать суммарную стоимость всех неотменённых заказов.
 
+**SQL-файл:** [`total_revenue_from_non_canceled_orders.sql`](../sql/total_revenue_from_non_canceled_orders.sql)
+
 ## Логика решения
 
 1. **all_not_canceled_orders**  
