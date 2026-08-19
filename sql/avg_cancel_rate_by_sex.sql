@@ -23,6 +23,18 @@ count_of_orders as (
     FROM user_actions ua
     GROUP BY user_id
 ),
+-- В качестве альтернативы, не заслужившей отдельного файла,
+-- можно рассмотреть замену CTE <<count_of_orders>>
+-- на следующий вариант, который, по анализу explain работает лучше:
+-- count_of_orders as (
+--     SELECT
+--         user_id,
+--         count(DISTINCT ua.order_id) filter(where aco.order_id is not null) as count_of_canceled_orders,
+--         count(DISTINCT ua.order_id) filter(where aco.order_id is null) as count_of_not_canceled_orders
+--     FROM user_actions ua
+--         left join all_canceled_orders aco on aco.order_id = ua.order_id
+--     GROUP BY user_id
+-- ),
 user_cancel_rate as (
     SELECT
         user_id,
