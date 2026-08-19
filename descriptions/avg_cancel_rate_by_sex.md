@@ -2,6 +2,8 @@
 
 **Задача:** посчитать средний процент отменённых заказов среди пользователей в разрезе пола.
 
+**SQL-файл:** [`avg_cancel_rate_by_sex.sql`](../sql/avg_cancel_rate_by_sex.sql)
+
 ## Логика решения
 
 1. **all_canceled_orders**  
