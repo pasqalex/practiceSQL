@@ -5,7 +5,7 @@
 
 ## Цели репозитория
 
-- Прокачать уверенное владение SQL на уровне, достаточном для позиции Junior Data Engineer.
+- Прокачать уверенное владение SQL на уровне, достаточном для позиции Junior+/Middle Data Engineer.
 - Научиться разбивать сложные бизнес-задачи на читаемые этапы с помощью CTE.
 - Освоить работу с подзапросами, агрегациями и оконными функциями.
 - Попрактиковаться в написании самодокументируемого SQL-кода.
@@ -16,6 +16,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white" />
 </p>
 
