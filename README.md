@@ -36,6 +36,7 @@
 | User Order Statistics | [`user_order_value_and_size_stats.sql`](sql/user_order_value_and_size_stats.sql) | [`описание`](descriptions/user_order_value_and_size_stats.md) |
 | Daily Revenue from Non-Canceled Orders | [`daily_revenue_from_non_canceled_orders.sql`](sql/daily_revenue_from_non_canceled_orders.sql) | [`описание`](descriptions/daily_revenue_from_non_canceled_orders.md) |
 | Top 10 Products in Non-Canceled September Deliveries | [`top_products_in_september_deliveries.sql`](sql/top_products_in_september_deliveries.sql) | [`описание`](descriptions/top_products_in_september_deliveries.md) |
+| Average Cancel Rate by Sex | [`avg_cancel_rate_by_sex.sql`](sql/avg_cancel_rate_by_sex.sql) | [`описание`](descriptions/avg_cancel_rate_by_sex.md) |
 
 ## Используемые техники
 
