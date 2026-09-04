@@ -2,7 +2,7 @@
 
 SQL-отчёт по дневным метрикам монетизации: ARPU, ARPPU, AOV.
 
-**SQL-файл:** [daily_monetization_metrics.sql](../sql/daily_monetization_metrics.sql)
+**SQL-файл:** [daily_monetization_metrics.sql](analytics_sql/advanced_sql/daily_monetization_metrics.sql)
 
 ## Метрики
 
